@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+.lilita-one-regular {
+  font-family: "Lilita One", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+body {
+  background: rgb(3,10,24);
+background: linear-gradient(45deg, rgba(3,10,24,1) 70%, rgba(0,109,164,1) 92%);
+color: white;
+height: 200vh;
+}
+
