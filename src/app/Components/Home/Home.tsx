@@ -51,7 +51,7 @@ export const Init = () => {
           whileInView={{ opacity: 1, y: 0 }}
           exit={{ opacity: 0, y: -200 }}
           transition={{ duration: 1 }}
-          className="rounded-full bg-blue-400 "
+          className="rounded-full bg-blue-400 shadow-lg shadow-white "
           src="/figurinha/blz.png"
           alt=""
           width="350px"

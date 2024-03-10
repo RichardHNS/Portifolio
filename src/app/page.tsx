@@ -1,14 +1,15 @@
 
 import { Metadata } from 'next';
-import  Link  from 'next/link';
 import { Init } from './Components/Home/Home';
 import { Skill } from './Components/Skill/Skill';
+import { Projects } from './Components/projects/projects';
 
 export default function Home() {
   return (
     <>
       <Init />
       <Skill />
+      <Projects />
     </>   
 
   );

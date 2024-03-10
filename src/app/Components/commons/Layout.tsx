@@ -4,11 +4,11 @@ export const Layout = () => {
   return (
     <>
       <div className="flex justify-center">
-        <nav className="bg-white border-gray-200 mt-8 w-5/6 rounded-3xl">
+        <nav className="bg-white border-gray-200 mt-8 w-11/12 rounded-3xl">
           <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
             <img
               src="figurinha/Icon.png"
-              className="ml-8 w-10 p-0"
+              className=" w-10 p-0"
               alt="Icon Richard"
             />
             <button
