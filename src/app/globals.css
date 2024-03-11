@@ -10,6 +10,10 @@ background-color: #09163a;
 color: white;
 height: 600vh;
 }
+.text-blue-1000{
+  color: #09163a;
+}
+
 
 .poppins-thin {
   font-family: "Poppins", sans-serif;

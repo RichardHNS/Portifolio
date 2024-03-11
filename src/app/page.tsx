@@ -3,6 +3,7 @@ import { Metadata } from 'next';
 import { Init } from './Components/Home/Home';
 import { Skill } from './Components/Skill/Skill';
 import { Projects } from './Components/projects/projects';
+import Expe from './Components/expe/expe';
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <Init />
       <Skill />
       <Projects />
+      <Expe />
     </>   
 
   );
